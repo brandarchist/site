@@ -1,0 +1,2 @@
+{{ $colorCSS := resources.Get "css/color-experiment.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $colorCSS.RelPermalink }}">
