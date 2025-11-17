@@ -1,0 +1,46 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Brandarchist'
+theme = 'hugo-blog-awesome'
+defaultContentLanguage = 'en'
+enableEmoji = true
+ignoreErrors = ['additional-script-loading-error']
+publishDir = 'docs'
+
+[params]
+sitename = 'Brandarchist'
+defaultColor = 'dark'
+description = 'Minimal Hugo blog theme with light and dark mode support'
+mainSections = ['posts']
+toc = true
+tocOpen = false
+goToTop = true
+
+[params.author]
+avatar = ''
+intro = 'Awesome hugo blog'
+name = 'Brandarchist'
+description = 'A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog.'
+
+[menu]
+
+[[menu.main]]
+identifier = 'ai'
+name = 'AI'
+pageRef = 'ai'
+url = '/ai/'
+weight = 10
+
+[[menu.main]]
+identifier = 'ip'
+name = 'IP'
+pageRef = 'ip'
+url = '/ip/'
+weight = 20
+
+[[menu.main]]
+identifier = 'cv'
+name = 'CV'
+pageRef = 'cv'
+url = '/cv/'
+weight = 30

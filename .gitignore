@@ -1,0 +1,9 @@
+# Hugo build cache
+.hugo_build.lock
+public/
+
+# Hugo resources
+resources/_gen/
+
+# OS cruft
+.DS_Store

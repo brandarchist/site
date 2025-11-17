@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="wrapper">
+    <section class="author hero-page">
+        <h1 class="author-name">{{ .Title }}</h1>
+        {{ with .Params.lead }}
+        <p class="author-bio">{{ . }}</p>
+        {{ end }}
+    </section>
+</div>
+{{ if .Content }}
+<div class="wrapper post hero-page-content">
+    <main class="page-content" aria-label="Content">
+        <article>
+            <div class="page-content">
+                {{ .Content }}
+            </div>
+        </article>
+    </main>
+</div>
+{{ end }}
+{{ end }}
