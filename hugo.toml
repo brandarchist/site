@@ -15,6 +15,24 @@ mainSections = ['posts']
 toc = true
 tocOpen = false
 goToTop = true
+logoImage = '' # optional path under assets/ or static/
+logoAlt = 'Brandarchist mark'
+
+[[params.socialIcons]]
+name = 'x'
+url = 'https://x.com/brandarchist'
+
+[[params.socialIcons]]
+name = 'reddit'
+url = 'https://www.reddit.com/u/brandarchist/'
+
+[[params.socialIcons]]
+name = 'instagram'
+url = 'https://www.instagram.com/brandarchist/'
+
+[[params.socialIcons]]
+name = 'youtube'
+url = 'https://youtube.com/@brandarchist'
 
 [params.author]
 avatar = ''
