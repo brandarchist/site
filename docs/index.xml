@@ -1,3 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Brandarchist</title><link>https://example.org/</link><description>Recent content in Home on Brandarchist</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Artificial Intelligence</title><link>https://example.org/ai/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/ai/</guid><description>&lt;p&gt;We experiment with practical machine-learning workflows, from research automation to content intelligence, all with an eye toward safer and more expressive brand experiences.&lt;/p&gt;</description></item><item><title>Curriculum Vitae</title><link>https://example.org/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/cv/</guid><description>&lt;p&gt;From experimentation frameworks to creative automation pipelines, this CV highlights work that bridges product, research, and storytelling. Below is a style board that exercises the common typography and component treatments in the Hugo Blog Awesome theme.&lt;/p&gt;
-&lt;h2 id="typography-palette"&gt;Typography Palette&lt;/h2&gt;
-&lt;p&gt;Body copy lands at a comfortable reading width so long-form case studies feel calm and confident. Inline &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, &lt;code&gt;monospace&lt;/code&gt;, and a combo of &lt;strong&gt;&lt;em&gt;bold italic&lt;/em&gt;&lt;/strong&gt; text all render with clear contrast on both light and dark modes.&lt;/p&gt;</description></item><item><title>Intellectual Property</title><link>https://example.org/ip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/ip/</guid><description>&lt;p&gt;We cover open-source policies, licensing recommendations, and best practices for keeping ideas shareable without losing the rights that matter most.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Brandarchist</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Brandarchist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ai/</guid>
+      
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Every day, we have conversations with ourselves. Our meat suit with simple directives like &amp;ldquo;don&amp;rsquo;t die&amp;rdquo; and &amp;ldquo;reproduce.&amp;rdquo; Everything else, as RuPaul put it, is drag.&lt;/p&gt;
+&lt;p&gt;What would we learn from reverse engineering the human experience only to rebuild it from silicon?&lt;/p&gt;
+&lt;p&gt;&amp;ndash;brandarchist&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/</guid>
+      
+      <description>&lt;p&gt;From experimentation frameworks to creative automation pipelines, this CV highlights work that bridges product, research, and storytelling. Below is a style board that exercises the common typography and component treatments in the Hugo Blog Awesome theme.&lt;/p&gt;
+&lt;h2 id=&#34;typography-palette&#34;&gt;Typography Palette&lt;/h2&gt;
+&lt;p&gt;Body copy lands at a comfortable reading width so long-form case studies feel calm and confident. Inline &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, &lt;code&gt;monospace&lt;/code&gt;, and a combo of &lt;strong&gt;&lt;em&gt;bold italic&lt;/em&gt;&lt;/strong&gt; text all render with clear contrast on both light and dark modes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Intellectual Property</title>
+      <link>http://localhost:1313/ip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ip/</guid>
+      
+      <description>&lt;p&gt;We cover open-source policies, licensing recommendations, and best practices for keeping ideas shareable without losing the rights that matter most.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

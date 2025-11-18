@@ -4,4 +4,9 @@ layout: "hero"
 lead: "Superintelligence. Meet Superwisdom."
 ---
 
-We experiment with practical machine-learning workflows, from research automation to content intelligence, all with an eye toward safer and more expressive brand experiences.
+> Every day, we have conversations with ourselves. Our meat suit with simple directives like "don't die" and "reproduce." Everything else, as RuPaul put it, is drag. 
+>
+> What would we learn from reverse engineering the human experience only to rebuild it from silicon? 
+>
+> --brandarchist
+
